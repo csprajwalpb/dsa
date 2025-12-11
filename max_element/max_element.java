@@ -10,3 +10,4 @@ public class max_element{
         System.out.println(max);
     }
 }
+//Time Complexity : O(n)
