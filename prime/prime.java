@@ -11,7 +11,6 @@ public class prime {
         return true;
     }
     
-
         public static void main(String[] args){
             int n=45;
             if(isPrime(n)){
