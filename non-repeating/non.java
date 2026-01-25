@@ -3,7 +3,7 @@ public class non {
         String s = "swiss";
 
         int[] freq = new int[256]; 
-   
+        
         for (char ch : s.toCharArray()) {
             freq[ch]++;
         }
